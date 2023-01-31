@@ -28,4 +28,4 @@ yarn dev
 
 # License
 
-[MIT](https://github.com/SyMind/ji/blob/main/LICENSE)
+MIT
